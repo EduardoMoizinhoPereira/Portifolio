@@ -1,0 +1,5 @@
+Este documento foi elaborado com o objetivo de servir como um guia de consulta e referência para o processo de instalação do Windows Server,
+facilitando a revisão das etapas necessárias para sua configuração.
+
+A atividade foi proposta individualmente, proporcionando a oportunidade de aplicar os conhecimentos
+adquiridos em aula e desenvolver maior familiaridade com os procedimentos de instalação do sistema operacional para servidores.
