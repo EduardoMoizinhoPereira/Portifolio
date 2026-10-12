@@ -1,0 +1,5 @@
+Este projeto foi proposto pelo nosso professor como um desafio a ser desenvolvido ao longo de todo o módulo. A atividade envolveu a participação de toda a turma, com o objetivo de aplicar os conhecimentos adquiridos em sala de aula na criação de um jogo inspirado no Blackjack.
+
+O desenvolvimento foi realizado de forma colaborativa. O professor dividiu as funcionalidades do programa entre diferentes grupos, permitindo que cada equipe ficasse responsável por determinadas funções, tornando o trabalho mais organizado e equilibrado.
+
+Embora eu não tenha desenvolvido o programa individualmente, participei desse contexto de aprendizado coletivo, no qual todos se dedicaram a estudar, compreender a lógica necessária e contribuir para a construção da solução. Essa experiência proporcionou uma oportunidade de desenvolver habilidades de programação, colaboração e resolução de problemas.
